@@ -1,0 +1,25 @@
+@echo off
+
+:: Inicia el frontend en segundo plano
+start javaw -jar "C:\ruta\a\Biblioteca-1.0-SNAPSHOT-jar-with-dependencies.jar"
+
+:: Espera un momento para asegurar que el frontend esté ejecutándose
+timeout /t 2
+
+:: Inicia el backend en segundo plano (sin consola)
+start javaw -jar "C:\ruta\a\library-0.0.1-SNAPSHOT.jar"
+
+:: Monitorea si el proceso del frontend sigue ejecutándose
+:monitor
+tasklist /FI "IMAGENAME eq javaw.exe" | findstr /i "Biblioteca-1.0-SNAPSHOT-jar-with-dependencies.jar" > nul
+if %ERRORLEVEL% equ 0 (
+    :: Si el frontend está ejecutándose, espera 5 segundos y vuelve a comprobar
+    timeout /t 5
+    goto monitor
+) else (
+    :: Si el frontend se cerró, termina el backend
+    taskkill /F /IM "javaw.exe" /T
+    echo El frontend se cerró. El backend también se detuvo.
+)
+
+exit
