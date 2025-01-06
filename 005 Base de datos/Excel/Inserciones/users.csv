@@ -1,0 +1,449 @@
+iduser,mail,role,password,grade,status,code,failed_attempts,lock_time,Apellidos,Nombres
+1,maria.acosta@saintpatrick.edu.ec,Inglés,,,1,1718556648,0,NULL,Acosta Almeida,María Gabriela
+2,paula.apolo@saintpatrick.edu.ec,Apoyo,,,1,1724158645,0,NULL,Apolo Baculima,Paula Sofía
+3,viviana.arevalo@saintpatrick.edu.ec,Académico,,,1,1715395883,0,NULL,Arévalo Santamaría,Viviana Lorena
+4,silvia.arroyo@saintpatrick.edu.ec,Directivo,,,1,1702867795,0,NULL,Arroyo Ruales,Silvia Marieta
+5,cavilasps@gmail.com,Limpieza,,,1,1721680252,0,NULL,Avila Jaramillo,Cinthya Juana
+6,marcela.avila@saintpatrick.edu.ec,Académico,,,1,1714230677,0,NULL,Ávila Echeverría,Marcela Bernarda
+7,mariajose.baez@saintpatrick.edu.ec,Académico,,,1,1003437207,0,NULL,Báez,María José
+8,sistemas@saintpatrick.edu.ec,Adminsitrativo,,,1,1717976383,0,NULL,Bolaños Guerrero,Erick David
+9,pattylu_2608@hotmail.com,Transporte,,,1,1708097926,0,NULL,Bolaños ,Patricia
+10,mantenimiento@saintpatrick.edu.ec,Limpieza,,,1,1104376866,0,NULL,Camisán Correa,Marco Antonio
+11,nathali.carranza@saintpatrick.edu.ec,Académico,,,1,1713699419,0,NULL,Carranza Gaona,Nathali Paola
+12,karina.carrion@saintpatrick.edu.ec,Académico,,,1,1718650649,0,NULL,Carrión Bonilla,Karina Elizabeth
+13,leonor.ceron@saintpatrick.edu.ec,Apoyo,,,1,1712238680,0,NULL,Cerón Hernandez,Leonor Paulina
+14,jessica.chiquito@saintpatrick.edu.ec,Académico,,,1,1719206623,0,NULL,Chiquito Valles,Jéssica Gabriela
+15,dcisnerossps@gmail.com,Administrativo,,,1,1718879040,0,NULL,Cisneros Talavera,Diana Elizabeth
+16,emma.clavijo@saintpatrick.edu.ec,Académico,,,1,1712068798,0,NULL,Clavijo Flores,Emma Cecilia
+17,maria.cordova@saintpatrick.edu,Académico,,,1,1704788452,0,NULL,Córdova Morán,María Elena
+18,maria.cueva@saintpatrick.edu.ec,Docente,,,1,1720481413,0,NULL,Cueva Ochoa,María Laura
+19,maria.davalos@saintpatrick.edu.ec,Académico,,,1,1712150661,0,NULL,Dávalos Avila,María Fernanda
+20,sandra.delgado@saintpatrick.edu.ec,Académico,,,1,1706945910,0,NULL,Delgado Clavijo,Sandra Patricia
+21,luis.diaz@saintpatrick.edu.ec,Inglés,,,1,1710007111,0,NULL,Díaz Proaño,Luis Marcelo
+22,doris.egas@saintpatrick.edu.ec,Académico,,,1,1716249550,0,NULL,Egas Córdova,Doris Anabel
+23,viviana.egas@saintpatrick.edu.ec,Académico,,,1,1716249535,0,NULL,Egas Córdova,Viviana Elizabeth
+24,emma.encalada@saintpatrick.edu.ec,Académico,,,1,1721060745,0,NULL,Encalada Vaca,Enma Daniela
+25,mireya.enriquez@saintpatrick.edu.ec,Académico,,,1,401424254,0,NULL,Enríquez Herrera,Mireya de Lourdes
+26,stephany.espinosa@saintpatrick.edu.ec,DECE,,,1,1721740395,0,NULL,Espinosa Miño,Stephany Nataly
+27,gabriela.flores@saintpatrick.edu.ec,Académico,,,1,1717371783,0,NULL,Flores Cevallos,Gabriela Alejandra
+28,sgalarragasps@gmail.com,Administrativo,,,1,1719358127,0,NULL,Galárraga Chuquimarca,Silvana Ximena
+29,cesar.galarza@saintpatrick.edu.ec,Docente,,,1,1710634021,0,NULL,Galarza Arroyo,César Enrique
+30,pgallardosps@gmail.com,Administrativo,,,1,1712052255,0,NULL,Gallardo Buitrón,Paulina Fernanda
+31,maria.gordon@saintpatrick.edu.ec,Académico,,,1,1722686456,0,NULL,Gordón Corrales,María José
+32,juan.heredia@saintpatrick.edu.ec,Docente,,,1,1715004543,0,NULL,Heredia Alvear,Juan Esteban
+33,diana.herrera@saintpatrick.edu.ec,Académico,,,1,1714732490,0,NULL,Herrera Martínez,Diana Patricia
+34,tania.jimenez@saintpatrick.edu.ec,Académico,,,1,1716164395,0,NULL,Jiménez Bernal,Tania Beatriz
+35,jenny.lalangui@saintpatrick.edu.ec,Académico,,,1,1718537689,0,NULL,Lalangui Merino,Jenny Magali
+36,martin.lennon@saintpatrick.edu.ec,Docente,,,1,1500519457,0,NULL,Lennon Albán,Martín
+37,daniela.leon@saintpatrick.edu.ec,Académico,,,1,1719241778,0,NULL,León Zambrano,Daniela Alejandra
+38,kenia.leon@saintpatrick.edu.ec,Académico,,,1,1750441121,0,NULL,León Suárez,Kenia
+39,nancy.lincango@saintpatrick.edu.ec,Académico,,,1,1721103982,0,NULL,Lincango Reza,Nancy Isabel
+40,jose.llumiquinga@saintpatrick.edu.ec,Académico,,,1,1717960080,0,NULL,Llumiquinga Arias,José Eduardo
+41,lucrecia.maldonado@saintpatrick.edu.ec,Docente,,,1,1707307276,0,NULL,Maldonado Rodríguez,Lucrecia Sofía
+42,iveth.marmol@saintpatrick.edu.ec,Administrativo,,,1,1720487568,0,NULL,Mármol Pasquel,Iveth Geovanna
+43,eduardo.martinez@saintpatrick.edu.ec,Administrativo,,,1,1716796709,0,NULL,Martínez Moncayo,Eduardo Andrés
+44,hmedinasps@gmail.com,Académico,,,1,704873819,0,NULL,Medina Matamoros,Henry Fulvio
+45,vanessa.mejia@saintpatrick.edu.ec,Académico,,,1,1722947999,0,NULL,Mejía Ortíz,Vanessa Elizabeth
+46,smuenalasps@gmail.com,Limpieza,,,1,1002422994,0,NULL,Muenala Maldonado,Santiago Daniel
+47,paola.pazymino@saintpatrick.edu.ec,Administrativo,,,1,1711845170,0,NULL,Paz y,Miño Diaz Paola Andrea
+48,cristina.romero@saintpatrick.edu.ec,Académico,,,1,912198587,0,NULL,Romero Cano,Cristina Natalia
+49,dsilvav@gmail.com,Técnico,,,1,1721812210,0,NULL,Silva Vela,David José
+50,estefania.silva@saintpatrick.edu.ec,Académico,,,1,1720946977,0,NULL,Silva Vela,Estefanía Alejandra
+51,gabriela.silva@saintpatrick.edu.ec,Directivo,,,1,1717127722,0,NULL,Silva Vela,Gabriela Carolina
+52,jose.silva@saintpatrick.edu.ec,Administrativo,,,1,1706746409,0,NULL,Silva Arias,José Wladimir
+53,majo.silva.vela@gmail.com,Administrativo,,,1,1721812202,0,NULL,Silva Vela,María José
+54,ximena.silva@saintpatrick.edu.ec,Apoyo,,,1,1708376510,0,NULL,Silva Arias,Ximena Hilda
+55,jonathan.tabango@saintpatrick.edu.ec,Administrativo,,,1,1723019137,0,NULL,Tabango Cevallos,Jonathan Hugo
+56,ana.tapia@saintpatrick.edu.ec,Apoyo,,,1,1804970117,0,NULL,Tapia Oñate,Ana María
+57,jtorressps@gmail.com,Administrativo,,,1,1717396335,0,NULL,Torres Aguirre,Jeaneth De los Angeles
+58,maria.torres@saintpatrick.edu.ec,Académico,,,1,1717996233,0,NULL,Torres Vaca,María Sol
+59,pablo.vasquez@saintpatrick.edu.ec,Docente,,,1,1716181928,0,NULL,Vásquez Rodríguez,Pablo Andrés
+60,mariagustavela64@gmail.com,Directivo,,,1,1707558308,0,NULL,Vela Martínez,María Augusta
+61,irene.zambrano@saintpatrick.edu.ec,Académico,,,1,1707965115,0,NULL,Zambrano Gándara,Irene del Rosario
+62,dr.renealmeida2324@hotmail.com,Estudiante,,10MO A,1,1750492041,0,NULL,Almeida Rojas,Andrea Camila
+63,anaponton@gmail.com,Estudiante,,10MO A,1,1750467365,0,NULL,Cevallos Pontón,Isaac Sebastián
+64,juanse84@gmail.com,Estudiante,,10MO A,1,1750300236,0,NULL,Chaves Abril,Julián Agustín
+65,geovanyerazov@gmail.com,Estudiante,,10MO A,1,1755404389,0,NULL,Erazo Orbea,Alejandro Rafael
+66,marco_guachamin@hotmail.com,Estudiante,,10MO A,1,1750079558,0,NULL,Guachamín Romero,Samuel Antonio
+67,paoqui77@hotmail.com,Estudiante,,10MO A,1,1753234903,0,NULL,Guaricela Quilca,Gustavo David
+68,xavjaramillo@yahoo.com,Estudiante,,10MO A,1,1753403383,0,NULL,Jaramillo Baldeón,Emma
+69,ricardo.loor@gmail.com,Estudiante,,10MO A,1,1750384149,0,NULL,Loor Pinto,Julieta
+70,alejandraegas24@gmail.com,Estudiante,,10MO A,1,1727445346,0,NULL,Martínez Egas,Emma Ailín
+71,gandi_mier@hotmail.com,Estudiante,,10MO A,1,1750526749,0,NULL,Mier Romo,Nataly Valentina
+72,squintana_79@hotmail.com,Estudiante,,10MO A,1,1754165379,0,NULL,Navas Quintana,María Paz
+73,jcpch75@hotmail.com,Estudiante,,10MO A,1,1728737998,0,NULL,Proaño Guevara,Juan Ignacio
+74,mcsegoviac@gmail.com,Estudiante,,10MO A,1,1728744564,0,NULL,Samaniego Segovia,Sofía
+75,jorgesosa05@hotmail.com,Estudiante,,10MO A,1,1750849760,0,NULL,Sosa Vásquez,Melissa Salomé
+76,paolasanchez31@yahoo.com,Estudiante,,10MO A,1,1750504167,0,NULL,Villamarín Sánchez,Valentina Patricia
+77,paofloresc@outlook.com  ,Estudiante,,9NO A,1,1751711431,0,NULL,Bravo Flores,Matías Josué
+78,jorgecastro18@hotmail.com,Estudiante,,9NO A,1,1752547610,0,NULL,Castro Santos,Jorge Andrés
+79,marigaby_ojeda@yahoo.com,Estudiante,,9NO A,1,1751613116,0,NULL,Freire Ojeda,Josue Sebastian
+80,mariogodoyn@gmail.com,Estudiante,,9NO A,1,1751939164,0,NULL,Godoy Larrea,Analía
+81,dagv.15@hotmail.com,Estudiante,,9NO A,1,1750876813,0,NULL,Guachamín Viera,Diego Andrés
+82,byron.jarrin@gmail.com,Estudiante,,9NO A,1,952312437,0,NULL,Jarrín Morales,Wendy Sofía
+83,taniaenriquezc@gmail.com,Estudiante,,9NO A,1,1752204113,0,NULL,Males Enríquez,Josué Elián
+84,francisco.mena@outlook.com,Estudiante,,9NO A,1,1751082387,0,NULL,Mena Rosero,Isabela Valentina
+85,anakarinajacome@gmail.com,Estudiante,,9NO A,1,1751731066,0,NULL,Moreno Jácome,Emilia Valentina
+86,squintana_79@hotmail.com,Estudiante,,9NO A,1,1751956036,0,NULL,Navas Quintana,Sophia Martina
+87,natalia.isabel.cabezas@gmail.com,Estudiante,,9NO A,1,1750770156,0,NULL,Ortega Cabezas,Micaela Isabel
+88,paocord20@hotmail.com,Estudiante,,9NO A,1,1751811918,0,NULL,Pérez Córdova,Martina Isabela
+89,maria_echeverria@hotmail.com,Estudiante,,9NO A,1,1753143468,0,NULL,Portilla Echeverría,Fiorella Romina
+90,dromeror75@yahoo.es,Estudiante,,9NO A,1,1751046614,0,NULL,Romero Rodas,Matías Sebastián
+91,angepalacios777@gmail.com,Estudiante,,9NO A,1,1751512466,0,NULL,Valdez Palacios,Romina
+92,christian.vega.v@gmail.com,Estudiante,,9NO A,1,1750850719,0,NULL,Vega Reinoso,Juan Pablo
+93,nealmeid@gmail.com,Estudiante,,8VO A,1,1753209376,0,NULL,Almeida Paredes,José Ignacio
+94,rafaelarmendarizv@hotmail.com,Estudiante,,8VO A,1,1752181337,0,NULL,Armendariz Segovia,Sarah Valentina
+95,analuciagarnica@yahoo.com,Estudiante,,8VO A,1,1752450328,0,NULL,Asan Garnica,Ricardo Sebastian
+96,remiavila31@gmail.com,Estudiante,,8VO A,1,1753386703,0,NULL,Ávila Galarza,Isaac Remigio
+97,pjcastro_78@hotmail.com,Estudiante,,8VO A,1,1727840553,0,NULL,Castro Arévalo,Martina Emilia
+98,paoqui77@hotmail.com,Estudiante,,8VO A,1,1752673325,0,NULL,Guaricela Quilca,Juliana Paola
+99,luguerr-rod@hotmail.com,Estudiante,,8VO A,1,1752507051,0,NULL,Guerrero Guerrero,Dereck Alberto
+100,thenry14ec@hotmail.com,Estudiante,,8VO A,1,1754154035,0,NULL,Iñiguez Martínez,Bastian Matías
+101,eliana.munoz@hotmail.com,Estudiante,,8VO A,1,1753388014,0,NULL,Moncayo Muñoz,Emma Luciana
+102,carlos.padilla@codipecuador.com,Estudiante,,8VO A,1,1753395852,0,NULL,Padilla Castañeda,Joaquín Alejandro
+103,pazmino_b@hotmail.com,Estudiante,,8VO A,1,1727983627,0,NULL,Pazmiño Bosquez,Daniel Alejandro
+104,mabetinvelortiz@gmail.com,Estudiante,,8VO A,1,1753158516,0,NULL,Ruiz Velasco,Milu Alejandra
+105,comando_m@hotmail.com,Estudiante,,8VO A,1,1727865535,0,NULL,Silva Mueses,Samantha Nickole
+106,juankillo@hotmail.com,Estudiante,,8VO A,1,1728027267,0,NULL,Silva Valarezo,Carlos Andres
+107,esolano@apoloecu.com,Estudiante,,8VO A,1,1727998062,0,NULL,Solano Ávila,Eduarda Martina
+108,paty_bria16@hotmail.com,Estudiante,,8VO A,1,1754581104,0,NULL,Solórzano Cruz,Brianna Isabella
+109,estefy_nenabel@hotmail.com,Estudiante,,8VO A,1,1752057917,0,NULL,Tobar Gallegos,Emilia Mikaela
+110,kakilucia@hotmail.es,Estudiante,,1BGU A,1,1727874727,0,NULL,Acosta Granja,Emilia Luciana
+111,bibi_escobar@hotmail.com,Estudiante,,1BGU A,1,1727249276,0,NULL,Albornoz Escobar,Juan Martín
+112,rafaelarmendarizv@hotmail.com,Estudiante,,1BGU A,1,1727337998,0,NULL,Armendariz Segovia,Rafael Ernesto
+113,loayzaromero@hotmail.com,Estudiante,,1BGU A,1,1750950659,0,NULL,Arroyo Loayza,Denis Matías
+114,pjcastro_78@hotmail.com,Estudiante,,1BGU A,1,1727038257,0,NULL,Castro Arévalo,Paula Francisca
+115,zrecalde@hotmail.com,Estudiante,,1BGU A,1,1752977262,0,NULL,Chamorro Recalde,José David
+116,p.del.pozo@hotmail.com,Estudiante,,1BGU A,1,1751233386,0,NULL,Del Pozo,Merino Stephano Xavier
+117,gabycan@hotmail.com,Estudiante,,1BGU A,1,1750036269,0,NULL,Delgado Candel,Juan Martín
+118,silvia.andrade.ch@gmail.com,Estudiante,,1BGU A,1,1750086439,0,NULL,Jaramillo Andrade,Martina Emilia
+119,nolivos_milton@yahoo.com,Estudiante,,1BGU A,1,1753387883,0,NULL,Nolivos Albuja,Sofía Pamela
+120,sotedisa@hotmail.com,Estudiante,,1BGU A,1,1755602651,0,NULL,Real Díaz,María Clara
+121,paulina_asanza@hotmail.com,Estudiante,,1BGU A,1,1727248518,0,NULL,Rivadeneira Asanza,Joaquín
+122,jsalvadorm6826@yahoo.com,Estudiante,,1BGU A,1,1756111512,0,NULL,Salvador Valencia,Sebastián Daniel
+123,valeriapaz286@gmail.com,Estudiante,,1BGU A,1,1754884128,0,NULL,Sandoval Paz,Gabriel Mateo
+124,luchito.yerovik@hotmail.com,Estudiante,,1BGU A,1,1729132272,0,NULL,Yerovi Guzmán,José Luis
+125,manihabs@yahoo.com,Estudiante,,2BGU A,1,1725936254,0,NULL,Acaro Imaicela,Lizeth Carolina
+126,eb26061978@gmail.com,Estudiante,,2BGU A,1,1726961392,0,NULL,Cañar Beltrán,Paúl Andrés
+127,aflarav@yahoo.com,Estudiante,,2BGU A,1,1729255602,0,NULL,Lara Armas,Arianna Esther
+128,carlosjulio.medina@gmail.com,Estudiante,,2BGU A,1,1755221791,0,NULL,Medina Baez,Zoe Tatiana
+129,moncayom@hotmail.com,Estudiante,,2BGU A,1,1726510348,0,NULL,Moncayo Moncayo,Nicole Estefanía
+130,jojamuar2010@hotmail.com,Estudiante,,2BGU A,1,1725881120,0,NULL,Muñoz Garcés,José Javier
+131,dproano@hotmail.com,Estudiante,,2BGU A,1,1756021521,0,NULL,Proaño Jácome,Cristhian Alejandro
+132,christian1978rodriguez@hotmail.com,Estudiante,,2BGU A,1,1726734104,0,NULL,Rodriguez Ortega,Sebastian
+133,kadimica13@gmail.com,Estudiante,,2BGU A,1,1750147694,0,NULL,Terán Albuja,Diego Nicolás
+134,efvivanco@yahoo.com,Estudiante,,2BGU A,1,1754348769,0,NULL,Vivanco Astudillo,Amelie Cristina
+135,fabianzamoraa@hotmail.com,Estudiante,,2BGU A,1,1725834525,0,NULL,Zamora Astudillo,Luciana Martina
+136,victorzapata1979@hotmail.com,Estudiante,,2BGU A,1,1725252769,0,NULL,Zapata Valdiviezo,María Paz
+137,mario_ap1@hotmail.com,Estudiante,,3BGU A,1,1724266158,0,NULL,Aparicio Ramírez,Alejandra
+138,tcsfito@gmail.com,Estudiante,,3BGU A,1,1750837245,0,NULL,Avalos Ruiz,Valentina Cristel
+139,ferben-ing@hotmail.com,Estudiante,,3BGU A,1,1750301119,0,NULL,Benítez Bosmediano,Ariadna Camila
+140,miguelcy77@hotmail.com,Estudiante,,3BGU A,1,1728666494,0,NULL,Calvopiña Vergara,Esteban Andrés
+141,mutreras@adrianahoyos.com,Estudiante,,3BGU A,1,1728746072,0,NULL,Díaz Utreras,Esteban Andrés
+142,ogonzalez@pronaca.com,Estudiante,,3BGU A,1,1750456442,0,NULL,González Santos,Matías Tadeo
+143,bygu80@gmail.com,Estudiante,,3BGU A,1,1751601269,0,NULL,Guaygua Proaño,Sofía Alejandra
+144,lucysestrellas1971@gmail.com,Estudiante,,3BGU A,1,1727565135,0,NULL,Hernández Estrella,Santiago Andrés
+145,pablo@neurobecorp.com,Estudiante,,3BGU A,1,1727055491,0,NULL,Illingworth Flores,Julian Andrés
+146,pablo@neurobecorp.com,Estudiante,,3BGU A,1,1727055509,0,NULL,Illingworth Flores,Mateo Sebastian
+147,xavjaramillo@yahoo.com,Estudiante,,3BGU A,1,1727248393,0,NULL,Jaramillo Baldeón,Andrés
+148,leonsierrajose@hotmail.com,Estudiante,,3BGU A,1,1729255180,0,NULL,León Angulo,Emily Camila
+149,dmeraptor111@hotmail.com,Estudiante,,3BGU A,1,1724643190,0,NULL,Meza Haig,Isabella Sofía
+150,fernacas1973@hotmail.com,Estudiante,,3BGU A,1,1313312314,0,NULL,Narváez Betancourt,Juan Fernando
+151,zorzamr@gmail.com,Estudiante,,3BGU A,1,950230409,0,NULL,Orrala Chonillo,Arianna Alejandra
+152,angelica@mas.ec,Estudiante,,3BGU A,1,1727132886,0,NULL,Osorio Maya,Santiago
+153,victormiguelperalta@hotmail.com,Estudiante,,3BGU A,1,1752880037,0,NULL,Peralta Tamayo,Daniel Alfredo
+154,poncejp@gmail.com,Estudiante,,3BGU A,1,1751526102,0,NULL,Ponce Troya,Ariana Belén
+155,fabrizio_sd@hotmail.com,Estudiante,,3BGU A,1,1756112585,0,NULL,Romero Dávila,Mathías Fabrizio
+156,mabetinvelortiz@gmail.com,Estudiante,,3BGU A,1,1725373011,0,NULL,Ruíz Velasco,Miguel Alejandro
+157,jorgesosa05@hotmail.com,Estudiante,,3BGU A,1,1750849851,0,NULL,Sosa Vásquez,Mateo Sebastian
+158,servifuego@yahoo.es,Estudiante,,3BGU A,1,1729331031,0,NULL,Villalva Pérez,María Paz
+159,diego.arcos.aldas@gmail.com,Estudiante,,5EGB Azuay,1,1757048820,0,NULL,Arcos Viteri,Micaela
+160,edison.avilag@gmail.com,Estudiante,,5EGB Azuay,1,1756938179,0,NULL,Avila Ordoñez,Isabella Anahí
+161,paofloresc@outlook.com  ,Estudiante,,5EGB Azuay,1,1756934061,0,NULL,Bravo Flores,Micaela Valentina
+162,w_cabrera33@live.com,Estudiante,,5EGB Azuay,1,1756692305,0,NULL,CABRERA RUEDA,MARIA JOSE
+163,achiriboga@gvn.com.ec,Estudiante,,5EGB Azuay,1,1756761357,0,NULL,Espinosa Chiriboga,Julián David
+164,sofypico@yahoo.com,Estudiante,,5EGB Azuay,1,1757130396,0,NULL,Guerrero Pico,Marthina Sofía
+165,jose.llumiquinga@saintpatrick.edu.ec,Estudiante,,5EGB Azuay,1,1757105406,0,NULL,Llumiquinga Simbaña,Amelia Verónika
+166,maria.jose.maestre.vintimilla@zurich.com,Estudiante,,5EGB Azuay,1,1756853949,0,NULL,López Maestre,Nicholas
+167,danir.romero20@gmail.com,Estudiante,,5EGB Azuay,1,1757040355,0,NULL,Mera Romero,Gianna
+168,rmichelena@datacam.com.ec,Estudiante,,5EGB Azuay,1,1757017122,0,NULL,Michelena Cisneros,Emilia Rafaela
+169,paulmosquera16@gmail.com,Estudiante,,5EGB Azuay,1,1756662878,0,NULL,Mosquera Salcedo,Amy Mayte
+170,sasnovoa@gmail.com,Estudiante,,5EGB Azuay,1,1756866909,0,NULL,Naranjo Novoa,Martín Alejandro
+171,cristydayfeijo@yahoo.com,Estudiante,,5EGB Azuay,1,1756982722,0,NULL,Ochoa Feijó,Cristina Bernarda
+172,estebanaoc@hotmail.com,Estudiante,,5EGB Azuay,1,1757192297,0,NULL,Ordoñez Bayas,Ezequiel
+173,v8pintura@gmail.com,Estudiante,,5EGB Azuay,1,1756773386,0,NULL,Pontón Ruiz,Lua
+174,stephanycrespo@hotmail.com,Estudiante,,5EGB Azuay,1,1756369805,0,NULL,Vergopia Crespo,Valentina Giorgia
+175,nealmeid@gmail.com,Estudiante,,10MO B,1,1728015056,0,NULL,Almeida Paredes,Juan Daniel
+176,ariaslarco@gmail.com,Estudiante,,10MO B,1,1750586834,0,NULL,Arias Racines,Martín Nicolás
+177,roy_astudillo@hotmail.com,Estudiante,,10MO B,1,1750161299,0,NULL,Astudillo Guevara,Emma Valentina
+178,milescobar@gmail.com,Estudiante,,10MO B,1,1750311332,0,NULL,Escobar Terán,Juan Martín
+179,amquintana@espe.edu.ec,Estudiante,,10MO B,1,1750299875,0,NULL,Leguísamo Quintana,MARTINA Isabella
+180,victoriaguerronm@gmail.com,Estudiante,,10MO B,1,1751400399,0,NULL,Matehu Guerrón,Ariel Nicolás
+181,mllerenag87@gmail.com,Estudiante,,10MO B,1,1750731455,0,NULL,Ochoa Llerena,Diego Ismael
+182,ernestoojeda1983@hotmail.com,Estudiante,,10MO B,1,1750317966,0,NULL,Ojeda Sánchez,Thomas Alessandro
+183,elycarrion-86@hotmail.com,Estudiante,,10MO B,1,1750459644,0,NULL,Páez Carrión,Luciana Emilia
+184,paulestiaecuacopia@gmail.com,Estudiante,,10MO B,1,1750152249,0,NULL,Saltos Cisneros,Luciana Elizabeth
+185,emmanuelsandovalp@gmail.com,Estudiante,,10MO B,1,1750148080,0,NULL,Sandoval López,Rafaela
+186,gustavo@gusbar.com,Estudiante,,10MO B,1,1750973701,0,NULL,Titusunta Barreiros,Antonella Valentina
+187,jaurrest3@gmail.com,Estudiante,,10MO B,1,1750463612,0,NULL,Urresta Vaca,Athalia Abigail
+188,veromirand@hotmail.com,Estudiante,,10MO B,1,1750367540,0,NULL,Valencia Miranda,Sebastián Josue
+189,paolasanchez31@yahoo.com,Estudiante,,10MO B,1,1750504118,0,NULL,Villamarín Sánchez,Valeska Lena
+190,crisparedesg@hotmail.com,Estudiante,,9NO B,1,1751664614,0,NULL,Beltrán Paredes,Christian Gabriel
+191,eb26061978@gmail.com,Estudiante,,9NO B,1,1752749372,0,NULL,Cañar Beltrán,Isaac Sebastián
+192,jorgedonoso7@hotmail.com,Estudiante,,9NO B,1,1751456425,0,NULL,Donoso Salazar,Ismael Sebastian
+193,evponton@gmail.com,Estudiante,,9NO B,1,1751736404,0,NULL,Falconí Pontón,Carlos Matías
+194,vhjaramillov@hotmail.com,Estudiante,,9NO B,1,1750604660,0,NULL,Jaramillo Asanza,Danna Michelle
+195,aflarav@yahoo.com,Estudiante,,9NO B,1,1751749621,0,NULL,Lara Armas,Marina Emilia
+196,carlosmontalvoj@hotmail.com,Estudiante,,9NO B,1,1751205459,0,NULL,Montalvo Zumárraga,Giuliana Alejandra
+197,richi2mil@yahoo.com,Estudiante,,9NO B,1,1751758952,0,NULL,Ortega Fuentes,Ricardo Israel
+198,doris-arroyo@hotmail.com,Estudiante,,9NO B,1,1751150614,0,NULL,Pacheco Arroyo,Isabella Valentina
+199,nyestradap@hotmail.com,Estudiante,,9NO B,1,1751324904,0,NULL,Paltan Estrada,Benjamín Elias
+200,contabilidad@imperkasa.net,Estudiante,,9NO B,1,1754184354,0,NULL,Ponce Díaz,Camila Salomé
+201,proanoceronalex@hotmail.es,Estudiante,,9NO B,1,1751776574,0,NULL,Proaño Vallejo,Alex Emiliano
+202,villalba.alexandra@gmail.com,Estudiante,,9NO B,1,1750599100,0,NULL,Recalde Villalba,Génesis Camila
+203,chr58@hotmail.com,Estudiante,,9NO B,1,1752298529,0,NULL,RuÍz Benavides,Isabella Charlotte
+204,jaurrest3@gmail.com,Estudiante,,9NO B,1,1751918366,0,NULL,Urresta Vaca,Jairo Andrés
+205,patovi24@gmail.com,Estudiante,,9NO B,1,1751169788,0,NULL,Viñachi Latorre,Vanessa Abigail
+206,beatrizmeza171277@gmail.com,Estudiante,,9NO B,1,1757052384,0,NULL,Yoslakian Meza,Zahira Michelle
+207,verbos-com@hotmail.com,Estudiante,,8VO B,1,1752623957,0,NULL,Benítez Bosmediano,Mateo Fernando
+208,mloleas@sri.gob.ec,Estudiante,,8VO B,1,1728062884,0,NULL,Calva Oleas,Fátima Dominique
+209,rene_g88@hotmail.com,Estudiante,,8VO B,1,1753292158,0,NULL,Galindo Gaibor,Amelia Valentina
+210,alexgan6@hotmail.com,Estudiante,,8VO B,1,1752685931,0,NULL,Ganchala Mena,Emilia Sarahí
+211,marco_guachamin@hotmail.com,Estudiante,,8VO B,1,1753169125,0,NULL,Guachamín Romero,Daniela Fabiana
+212,wvhv1365@gmail.com,Estudiante,,8VO B,1,1753247517,0,NULL,Herrera Echeverría,Ariadna Rafaella
+213,fmuriel26@gmail.com,Estudiante,,8VO B,1,1753265170,0,NULL,MURIEL FREIRE,JULIAN EMILIANO
+214,josealfonsonaranjo@gmaill.com,Estudiante,,8VO B,1,1752372001,0,NULL,Naranjo Novoa,Paula Sofía
+215,mvinces-30@hotmail.com,Estudiante,,8VO B,1,1752575256,0,NULL,Narváez Vinces,Antonella
+216,doctoramarciaflores@gmail.com,Estudiante,,8VO B,1,1753187101,0,NULL,Ochoa FLORES,Andrea Guadalupe
+217,monyfern2015@gmail.com,Estudiante,,8VO B,1,1753354107,0,NULL,Paredes Fernández,Rafaela Victoria
+218,deparedesg@gmail.com,Estudiante,,8VO B,1,1753299278,0,NULL,Paredes Jaramillo,Nicolás Daniel
+219,were.aluminarq@hotmail.com,Estudiante,,8VO B,1,1753206067,0,NULL,Peñaherrera Rivera,Juan José
+220,animosquera@hotmail.com,Estudiante,,8VO B,1,1752135135,0,NULL,Rivera Mosquera,Mateo Andrés
+221,x_romero_p@yahoo.com,Estudiante,,8VO B,1,1752756898,0,NULL,Romero Ruales,María Isabel
+222,mia_atractiva@hotmail.com,Estudiante,,8VO B,1,1752694719,0,NULL,ROSERO GARCÍA,MATÍAS GABRIEL
+223,elizabeth1924@hotmail.com,Estudiante,,8VO B,1,1753283728,0,NULL,Villa Pazmiño,Amy Sofía
+224,efvivanco@yahoo.com,Estudiante,,8VO B,1,1754348876,0,NULL,Vivanco Astudillo,Francisco Samuel
+225,arquijose0911@gmail.com,Estudiante,,1BGU B,1,1754327979,0,NULL,Arcentales Egas,José Andrés
+226,juankgarces@outlook.com,Estudiante,,1BGU B,1,1727059139,0,NULL,Garcés Álvarez,Mateo Alessandro
+227,frgl17111971@gmail.com,Estudiante,,1BGU B,1,1750902957,0,NULL,Guerrero Medina,Kimy
+228,danielaaltunav@gmail.com,Estudiante,,1BGU B,1,1751676378,0,NULL,Jara Altuna,Daniel Alberto
+229,nadia_asanza@hotmail.com,Estudiante,,1BGU B,1,1751182500,0,NULL,Jaramillo Asanza,Julián André
+230,ptrc.vargas@gmail.com,Estudiante,,1BGU B,1,1750866491,0,NULL,León Vargas,Emilia Valentina
+231,wmarquez@slb.com,Estudiante,,1BGU B,1,804334530,0,NULL,Mosquera Menéndez,Lía Farah
+232,monyfern2015@gmail.com,Estudiante,,1BGU B,1,1750358663,0,NULL,Paredes Fernández,Joaquin Ignacio
+233,poncejp@gmail.com,Estudiante,,1BGU B,1,1751533975,0,NULL,Ponce Troya,Rafaela
+234,maveronik_81@hotmail.com,Estudiante,,1BGU B,1,1751426840,0,NULL,Pozo Celi,Mariemilia
+235,caroweidmann@hotmail.com,Estudiante,,1BGU B,1,1728812890,0,NULL,Proaño Weidmann,Matías Omar
+236,dianyv@hotmail.com,Estudiante,,1BGU B,1,1755448204,0,NULL,Ramírez Vintimilla,Daniel Alejandro
+237,chr58@hotmail.com,Estudiante,,1BGU B,1,1727276063,0,NULL,Ruíz Benavides,Thomás Fernando
+238,nelsontrejome@hotmail.com,Estudiante,,1BGU B,1,950127423,0,NULL,Trejo Alvia,Nelson Alexander
+239,beatrizmeza171277@gmail.com,Estudiante,,1BGU B,1,1757052376,0,NULL,Yoslakian Meza,Zahra Valentina
+240,aalvarez@beraca.com.ec,Estudiante,,2BGU B,1,1726613506,0,NULL,Álvarez Piñango,Adriel Israel
+241,anaponton@gmail.com,Estudiante,,2BGU B,1,1727200147,0,NULL,Cevallos Pontón,Miguel Andrés
+242,jorgedonoso7@hotmail.com,Estudiante,,2BGU B,1,1726676362,0,NULL,Donoso Salazar,Martina Dominique
+243,jrmegacons@hotmail.com,Estudiante,,2BGU B,1,1726352295,0,NULL,Jerez Valenzuela,Marco Samuel
+244,javierlemosc@gmail.com,Estudiante,,2BGU B,1,1750983189,0,NULL,Lemos Sandoval,Alejandra
+245,lorena.navas1234@gmail.com,Estudiante,,2BGU B,1,1750258277,0,NULL,Martínez Navas,Kattel Valentina
+246,dcisnerossps@gmail.com,Estudiante,,2BGU B,1,1754132759,0,NULL,Melo Cisneros,Eithan Andrés
+247,paulo_pacheco26@hotmail.com,Estudiante,,2BGU B,1,1727126284,0,NULL,Pacheco Arroyo,Paula Emilia
+248,padillaproano@hotmail.com,Estudiante,,2BGU B,1,1756186704,0,NULL,Padilla Pontón,Mia Valentina
+249,chris_salvador@hotmail.com,Estudiante,,2BGU B,1,1751262690,0,NULL,Salvador Nieto,Camila Alejandra
+250,mavel0207@hotmail.com,Estudiante,,2BGU B,1,1755870894,0,NULL,Sánchez Luzuriaga,Keyra Antonella
+251,jvg-22@hotmail.com,Estudiante,,2BGU B,1,1727127605,0,NULL,Vargas Camacho,Joffre Alejandro
+252,caterandireccion@gmail.com,Estudiante,,2BGU B,1,1726358235,0,NULL,Teran Mancero,Luciano Andres
+253,max.aguilar@gmail.com,Estudiante,,7EGB Bolívar,1,1754437034,0,NULL,Aguilar Yugcha,Bianca Salomé
+254,diego.arcos.aldas@gmail.com,Estudiante,,7EGB Bolívar,1,1728142355,0,NULL,Arcos Viteri,Benjamín Mateo
+255,fmencalada@gmail.com,Estudiante,,7EGB Bolívar,1,1754597142,0,NULL,Encalada Borja,Camila Alejandra
+256,johann_jvc@hotmail.com,Estudiante,,7EGB Bolívar,1,1754847489,0,NULL,Escobar Vera,Matías Alejandro
+257,raulfernandogarces@gmail.com,Estudiante,,7EGB Bolívar,1,1754208666,0,NULL,Garcés Silva,Maite Fernanda
+258,carlosgarrido.cornejo@gmail.com,Estudiante,,7EGB Bolívar,1,1753610763,0,NULL,Garrido Franco,Diana Sofía
+259,d_marinov@hotmail.com,Estudiante,,7EGB Bolívar,1,1754347795,0,NULL,Mariño Gallardo,Estéfano Javier
+260,moncayom@hotmail.com,Estudiante,,7EGB Bolívar,1,1754105011,0,NULL,Moncayo Moncayo,Sebastian Alejandro
+261,aleannisd@gmail.com,Estudiante,,7EGB Bolívar,1,1758057820,0,NULL,Parra Díaz,Habana
+262,estebanpisco@gmail.com,Estudiante,,7EGB Bolívar,1,3050161367,0,NULL,Pisco Galindo,Thiago Gael
+263,villalba.alexandra@gmail.com,Estudiante,,7EGB Bolívar,1,1753864378,0,NULL,Recalde Villalba,Lía Valentina
+264,gabrielapinoriera89@gmail.com,Estudiante,,7EGB Bolívar,1,1754177101,0,NULL,Salgado Pino,Sara Emilia
+265,mabelamu@hotmail.com,Estudiante,,7EGB Bolívar,1,1753589348,0,NULL,Sánchez Murgueytio,Belén Eiddhel
+266,admisiones@saintpatrick.edu.ec,Estudiante,,7EGB Bolívar,1,1753515004,0,NULL,Sarzosa Paz,y Miño Thiago Benjamín
+267,veintimilla.m@gmail.com,Estudiante,,7EGB Bolívar,1,1754781571,0,NULL,Veintimilla Guerrón,Christopher Elian
+268,guilley99@hotmail.com,Estudiante,,7EGB Bolívar,1,1753515053,0,NULL,Yaselga Ponce,Amelia Milena
+269,andre_lorena44@hotmail.com,Estudiante,,1EGB Cañar,1,1759835125,0,NULL,Andrade Arcos,Tomas Emiliano
+270,cristinaguerrarosas@gmail.com,Estudiante,,1EGB Cañar,1,1759525791,0,NULL,Calderón Guerra,Maria Paz
+271,abg_andres_fonseca@hotmail.com,Estudiante,,1EGB Cañar,1,1759815986,0,NULL,Fonseca Salazar,Jesús Andrés
+272,csjacome@saludsa.com.ec,Estudiante,,1EGB Cañar,1,1759537465,0,NULL,Jacome Zambrano,Samuel Benjamín
+273,alvarezilvana-13@hotmail.com,Estudiante,,1EGB Cañar,1,1759384181,0,NULL,Maya Alvarez,Amelia Diana
+274,dcisnerossps@gmail.com,Estudiante,,1EGB Cañar,1,1759354523,0,NULL,Melo Cisneros,Suzanne Kate
+275,nubia_loor@hotmail.com,Estudiante,,1EGB Cañar,1,1759908914,0,NULL,MONTUFAR LOOR,SOFIA ISABEL
+276,evda1989music@gmail.com,Estudiante,,1EGB Cañar,1,851621193,0,NULL,Palacios Solorzano,Eva Luna
+277,davalpa@hotmail.com,Estudiante,,1EGB Cañar,1,1759826728,0,NULL,Pazmiño Benalcazar,Isabella Alejandra
+278,mariabelencastillolo@hotmail.com,Estudiante,,1EGB Cañar,1,1759676891,0,NULL,Rojas Castillo,Doménica Valentina
+279,juanfra21@hotmail.com,Estudiante,,1EGB Cañar,1,1759836123,0,NULL,Rull Castillo,Emma Valentina
+280,jonathanvillala@hotmail.com,Estudiante,,1EGB Cañar,1,963682174,0,NULL,VILLALÁ MUÑOZ,JEREMÍAS ANDRÉS
+281,ariaslarco@gmail.com,Estudiante,,6EGB Carchi,1,1755426325,0,NULL,Arias Racines,Joaquín Fernando
+282,analuciagarnica@yahoo.com,Estudiante,,6EGB Carchi,1,1755493556,0,NULL,Asan Garnica,José Emilio
+283,roy_astudillo@hotmail.com,Estudiante,,6EGB Carchi,1,1755670542,0,NULL,Astudillo Guevara,Sara Rafaela
+284,javico.cris@gmail.com,Estudiante,,6EGB Carchi,1,1755696588,0,NULL,Bastidas Proaño,Juan Martin
+285,renotrenorg@yahoo.com,Estudiante,,6EGB Carchi,1,1756360374,0,NULL,Cevallos Torres,Danna Giuliana
+286,evponton@gmail.com,Estudiante,,6EGB Carchi,1,1756370126,0,NULL,Falconí Pontón,Emma Rafaela
+287,christiamaudio@gmail.com,Estudiante,,6EGB Carchi,1,1756408280,0,NULL,Garzón Dávila,Ana Paula
+288,dagv.15@hotmail.com,Estudiante,,6EGB Carchi,1,1755706668,0,NULL,Guachamín Viera,Victoria Isabel
+289,macarmen.herrera@gmail.com,Estudiante,,6EGB Carchi,1,1757118748,0,NULL,Martínez Herrera,Isis Alegría
+290,paulmora@hotmail.es,Estudiante,,6EGB Carchi,1,1756478192,0,NULL,Mora Silva,Paul Ezequiel
+291,sydalg_san@hotmail.es,Estudiante,,6EGB Carchi,1,1756254163,0,NULL,Poma Sandoval,Ariadna Valentina
+292,mcristinal1982@gmail.com,Estudiante,,6EGB Carchi,1,3050281652,0,NULL,Sandoval López,Emilio
+293,charliefabian14@hotmail.com,Estudiante,,6EGB Carchi,1,1754970323,0,NULL,Sarango Erazo,Emma Sofía
+294,anaidh@gmail.com,Estudiante,,6EGB Carchi,1,1755303755,0,NULL,Terán Ballesteros,Thiago Francisco
+295,fdvinueza@gmail.com,Estudiante,,6EGB Carchi,1,1754904306,0,NULL,Vinueza Moran,Camila Victoria
+296,p.del.pozo@hotmail.com,Estudiante,,6EGB Chimborazo,1,1755062807,0,NULL,Del Pozo,Merino Victor Felipe
+297,diegodelgadov@gmail.com,Estudiante,,6EGB Chimborazo,1,1755297429,0,NULL,Delgado Coronel,María Paz
+298,alexoes@hotmail.com,Estudiante,,6EGB Chimborazo,1,1755504642,0,NULL,Escobar Saad,Amelia
+299,yheseniap@hotmail.com,Estudiante,,6EGB Chimborazo,1,1756415848,0,NULL,Espinosa Ponce,Doménica Sarahí
+300,abg_andres_fonseca@hotmail.com,Estudiante,,6EGB Chimborazo,1,1755586136,0,NULL,Fonseca Salazar,Adriana Manuela
+301,ppitogarzon@yahoo.com,Estudiante,,6EGB Chimborazo,1,1756317622,0,NULL,Garzón Rodríguez,Antonio Nicolás
+302,ma_belen@msn.com,Estudiante,,6EGB Chimborazo,1,1756047609,0,NULL,Granja Peñaherrera,Antonella Belén
+303,schavez@ekos.com.ec,Estudiante,,6EGB Chimborazo,1,1756226195,0,NULL,Guerra Chávez,Gael Sebastián
+304,pochasalvador@yahoo.com,Estudiante,,6EGB Chimborazo,1,1755172879,0,NULL,Laquidáin Salvador,Sofía Liz
+305,apgc78@gmail.com,Estudiante,,6EGB Chimborazo,1,1755767124,0,NULL,Nieto Guachamín,Isabella Estefanía
+306,vini_pacheco@hotmail.com,Estudiante,,6EGB Chimborazo,1,1755998687,0,NULL,Pacheco Herrera,Thiago Vinicio
+307,andrespch_ec@hotmail.com,Estudiante,,6EGB Chimborazo,1,1755620109,0,NULL,Poveda Salgado,Emilia Raquel
+308,arobles1492@gmail.com,Estudiante,,6EGB Chimborazo,1,450254719,0,NULL,Robles López,Camilo Ismael
+309,nelsontrejome@hotmail.com,Estudiante,,6EGB Chimborazo,1,1755119169,0,NULL,Trejo Alvia,Lionel Ignacio
+310,verocpazosm@gmail.com,Estudiante,,6EGB Chimborazo,1,1756490189,0,NULL,Vernaza Pazos,Keanha Juls
+311,armas_luis@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757615065,0,NULL,Armas Calderón,Luis Mateo
+312,maisabelvera83@gmail.com,Estudiante,,4EGB Cotopaxi,1,1757499346,0,NULL,Beltrán Vera,Isabella Doménica
+313,jcesarscorpion@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757670565,0,NULL,Carrillo Morales,Julieth Raphaela
+314,i.orlando.chamorro@gmail.com,Estudiante,,4EGB Cotopaxi,1,1757688286,0,NULL,Chamorro Del,Pozo Julian Agustín
+315,jc_corralesb@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757341886,0,NULL,Corrales López,Luciana Isabel
+316,karlitaec@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757232101,0,NULL,Dávalos Acosta,Victoria Isabella
+317,ppitogarzon@yahoo.com,Estudiante,,4EGB Cotopaxi,1,1757656234,0,NULL,Garzón Rodríguez,Daniel Alejandro
+318,nankat-fal@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757491848,0,NULL,Guerrero Guerrero,Milán Nairo
+319,en.je2000@gmail.com,Estudiante,,4EGB Cotopaxi,1,1757396351,0,NULL,Jiménez Montenegro,Camila Isabella
+320,anakarinajacome@gmail.com,Estudiante,,4EGB Cotopaxi,1,1757543788,0,NULL,Moreno Jácome,Luciana Rafaela
+321,wmarquez@slb.com,Estudiante,,4EGB Cotopaxi,1,1757753312,0,NULL,Mosquera Menéndez,Milly Luciana
+322,jessica_cuesta11@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757810203,0,NULL,Ortíz Cuesta,Paula Victoria
+323,d.e.b.l@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757443104,0,NULL,Terán Ballesteros,Fiorella Anaidh
+324,liss10_10@hotmail.com,Estudiante,,4EGB Cotopaxi,1,1757445315,0,NULL,Yaranga Fierro,Tomás Benjamín
+325,loji2283@gmail.com,Estudiante,,Inicial 1 El Oro,1,1760905370,0,NULL,Aguilar Jiménez,Claire Martina
+326,carla_ct6512@hotmail.com,Estudiante,,Inicial 1 El Oro,1,1760735900,0,NULL,Galindo Gaibor,Renata Sofía
+327,j_luisarcos@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756907448,0,NULL,Arcos López,Matilda Emiliana
+328,vanessa.mejia@saintpatrick.edu.ec,Estudiante,,5EGB Esmeraldas,1,1757125560,0,NULL,Cervantes Mejía,Ian Nicolás
+329,verflo17@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756026223,0,NULL,Cevallos Flores,Tomás Andrés
+330,masabandaacostamarcela@gmail.com,Estudiante,,5EGB Esmeraldas,1,1756550701,0,NULL,Galeano Masabanda,Sarah Valentina
+331,alexgan6@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756645923,0,NULL,Ganchala Mena,Alexa Kamila
+332,dgarcesguerra@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756616577,0,NULL,Garcés Hinojosa,Victoria Amelíe
+333,doctoravaldez@gmail.com,Estudiante,,5EGB Esmeraldas,1,1756748289,0,NULL,Larrea Valdez,Isabela Fernanda
+334,pau.65@hotmail.es,Estudiante,,5EGB Esmeraldas,1,1757033129,0,NULL,Mosquera Duque,Paula Luciana
+335,semepro2121@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756473052,0,NULL,Muñoz Navarro,Xavier Alejandro
+336,richi2mil@yahoo.com,Estudiante,,5EGB Esmeraldas,1,1756939581,0,NULL,Ortega Fuentes,Victoria Angélica
+337,esteban.pesantez@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1757154602,0,NULL,Pesantez Cobos,Joaquín Esteban
+338,david_roman2@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756940084,0,NULL,Román Gordón,Victoria Monserrath
+339,andrea.esparzaballesteros@telefonica.com,Estudiante,,5EGB Esmeraldas,1,1756775118,0,NULL,Torres Esparza,Elian Marcelo
+340,adrianaarroba@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1756355671,0,NULL,Vaca Arroba,Francisco Xavier
+341,katyfre@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1757039522,0,NULL,Vintimilla Freire,Fiorella Cristina
+342,denise_cris24@hotmail.com,Estudiante,,5EGB Esmeraldas,1,1757013584,0,NULL,Zárate Viteri,Ivanna Cristina
+343,j_luisarcos@hotmail.com,Estudiante,,3EGB Galápagos,1,1758466666,0,NULL,Arcos Lopez,Amelia Isabela
+344,miryaries@hotmail.es,Estudiante,,3EGB Galápagos,1,1757989767,0,NULL,Bolivar Guachamín,Kamilo Zahir
+345,w_cabrera33@live.com,Estudiante,,3EGB Galápagos,1,1758091464,0,NULL,CABRERA RUEDA,LUCIANA BELEN
+346,panchodavilabedoya@gmail.com,Estudiante,,3EGB Galápagos,1,1757957392,0,NULL,Dávila Bedoya,Francisco Daniel
+347,stefany.meza@summalinguae.com,Estudiante,,3EGB Galápagos,1,1758296535,0,NULL,Espinoza Meza,Andrea Antonella
+348,balladarescontabilidad@gmail.com,Estudiante,,3EGB Galápagos,1,1758292591,0,NULL,Hoyos Cevallos,Joaquín
+349,alex.iza@hotmail.com,Estudiante,,3EGB Galápagos,1,1757892011,0,NULL,Iza Hernández,Alexa Luana
+350,prosertecons@gmail.com,Estudiante,,3EGB Galápagos,1,1757985641,0,NULL,Jácome Díaz,Santiago Nicolás
+351,rodrigomatehug@gmail.com,Estudiante,,3EGB Galápagos,1,1757878606,0,NULL,Matehu Guerrón,Luciana Victoria
+352,dsquinteros@enertronic.ec,Estudiante,,3EGB Galápagos,1,1758045502,0,NULL,Quinteros Yépez,Sebastián
+353,carla86_m@hotmail.com.ec,Estudiante,,3EGB Galápagos,1,1758024309,0,NULL,Rivera Montaño,Martín Josue
+354,dra.vacagomez@gmail.com,Estudiante,,3EGB Galápagos,1,1758407306,0,NULL,Salazar Vaca,Danna Elizabeth
+355,aaltamirano85@gmail.com,Estudiante,,4EGB Guayas,1,1757482730,0,NULL,Altamirano Salazar,Valentina
+356,yadira_chamorro@hotmail.com,Estudiante,,4EGB Guayas,1,1757297443,0,NULL,Álvarez Chamorro,Felipe Andrés
+357,cristinaguerrarosas@gmail.com,Estudiante,,4EGB Guayas,1,1757552847,0,NULL,Calderón Guerra,Rafael Emilio
+358,gonzalocarvajalc@gmail.com,Estudiante,,4EGB Guayas,1,1757486152,0,NULL,Carvajal Najera,Ariadna Catalina
+359,jfchamorroc@gmail.com,Estudiante,,4EGB Guayas,1,1757368491,0,NULL,Chamorro Orellana,Camila Luana
+360,autorepuestos-cruz@hotmail.com,Estudiante,,4EGB Guayas,1,1757648413,0,NULL,Cruz Bersoza,Carlos Javier
+361,dgarcesguerra@hotmail.com,Estudiante,,4EGB Guayas,1,1757361900,0,NULL,Garcés Hinojosa,Mía Antonella
+362,paoladanielajarrin@icloud.com,Estudiante,,4EGB Guayas,1,1757525827,0,NULL,Jarrín Paucar,Nathan Daniel
+363,info@etic.com.ec,Estudiante,,4EGB Guayas,1,1757941602,0,NULL,Molina Ramos,Sol Valentina
+364,emilia.quiroz.perez@gmail.com,Estudiante,,4EGB Guayas,1,1757747835,0,NULL,Ortega Quiroz,Sofía Rafaela
+365,deparedesg@gmail.com,Estudiante,,4EGB Guayas,1,1757394976,0,NULL,Paredes Jaramillo,Samantha Alejandra
+366,natalia.cepeda@hotmail.com,Estudiante,,4EGB Guayas,1,1757350473,0,NULL,Perez Cepeda,Luciana Joaquina
+367,budip@hotmail.com,Estudiante,,4EGB Guayas,1,1757244635,0,NULL,Porras Robles,Martín Emiliano
+368,mavel0207@hotmail.com,Estudiante,,4EGB Guayas,1,1757724123,0,NULL,Sánchez Luzuriaga,Julián Ezequiel
+369,marcelo.patricio.silva.rosero@gmail.com,Estudiante,,4EGB Guayas,1,1757704281,0,NULL,Silva Bermudez,Samuel Emilio
+370,jacobo.vasquez@saintpatrick.edu.ec,Estudiante,,4EGB Guayas,1,1757572811,0,NULL,Vásquez Carranza,Andrés Sebastián
+371,verocpazosm@gmail.com,Estudiante,,4EGB Guayas,1,1757720170,0,NULL,Vernaza Pazos,Farha Jenelle
+372,fdvinueza@gmail.com,Estudiante,,4EGB Guayas,1,1757787369,0,NULL,Vinueza Moran,Melissa Belén
+373,loji2283@gmail.com,Estudiante,,2EGB Loja,1,1758326068,0,NULL,Aguilar Jimenez,Luis Eduardo
+374,corigarces_2488@yahoo.es,Estudiante,,2EGB Loja,1,1758553356,0,NULL,Aizaga Garcés,Sofía Corina
+375,daysi_puente@hotmail.com,Estudiante,,2EGB Loja,1,1758852170,0,NULL,Albuja Puente,Mathias David
+376,christian.cadena.r@outlook.com,Estudiante,,2EGB Loja,1,1758796658,0,NULL,Cadena Valarezo,Samantha Gabriela
+377,pao.vegac@gmail.com,Estudiante,,2EGB Loja,1,1758830978,0,NULL,Duque Vega,Leonardo Andrés
+378,descobar0572@gmail.com,Estudiante,,2EGB Loja,1,1758445108,0,NULL,Escobar Pisco,Thiana Martina
+379,deparedesg@gmail.com,Estudiante,,2EGB Loja,1,1758710311,0,NULL,Paredes Jaramillo,Sebastián Daniel
+380,bryanramosr@gmail.com,Estudiante,,2EGB Loja,1,1758556441,0,NULL,Ramos Lozano,Julieta
+381,sukita26_1@hotmail.com,Estudiante,,2EGB Loja,1,1759095829,0,NULL,Salas Mariño,Ariana Valentina
+382,pame.jacome.salazar@gmail.com,Estudiante,,2EGB Loja,1,1758609364,0,NULL,Vásconez Jácome,Santiago Benjamín
+383,ananvas881@gmail.com,Estudiante,,2EGB Loja,1,1758860280,0,NULL,Vega Navas,Zoe
+384,carlajgc@yahoo.com,Estudiante,,2EGB Loja,1,1759151473,0,NULL,VELASQUEZ GONZALEZ,VALERIA CAROLINA
+385,m@galeriacacao.com,Estudiante,,2EGB Loja,1,1758617037,0,NULL,Worth Salinas,Leah Sofía
+386,angelicatoscano@gmail.com,Estudiante,,7EGB Manabí,1,1753472404,0,NULL,Arizábala Toscano,Camilo Andrés
+387,freddybeltranvidal@gmail.com,Estudiante,,7EGB Manabí,1,1753859071,0,NULL,Beltrán Paredes,Freddy David
+388,juanse84@gmail.com,Estudiante,,7EGB Manabí,1,1753615440,0,NULL,Chaves Abril,María Paz
+389,rikrdo1687@hotmail.com,Estudiante,,7EGB Manabí,1,1753475472,0,NULL,Córdova Gómez,María Paz
+390,gendarabo@gmail.com,Estudiante,,7EGB Manabí,1,1754691150,0,NULL,Endara Espinosa,Eleana Victoria
+391,byronenriquezs@yahoo.com,Estudiante,,7EGB Manabí,1,1755565973,0,NULL,Enriquez Quiroz,Fabián Matías
+392,carlosgarrido.cornejo@gmail.com,Estudiante,,7EGB Manabí,1,1753610706,0,NULL,Garrido Franco,Paula Daniela
+393,plop_blue88@hotmail.com,Estudiante,,7EGB Manabí,1,1753387362,0,NULL,López Arias,Joaquín Andrés
+394,oswaldolorca@yahoo.com,Estudiante,,7EGB Manabí,1,1753667292,0,NULL,Lorca Lascano,Gabriel Nicolás
+395,niloypunto@hotmail.com,Estudiante,,7EGB Manabí,1,1754860375,0,NULL,Mora Quintanilla,Noa Ariana
+396,drluisortiz@outlook.com,Estudiante,,7EGB Manabí,1,1754801148,0,NULL,Ortíz Cuesta,Felipe Alejandro
+397,edison.pullas@hotmail.com,Estudiante,,7EGB Manabí,1,1754111910,0,NULL,Pullas León,Emilia Salome
+398,mrrualesz@yahoo.es,Estudiante,,7EGB Manabí,1,1754801270,0,NULL,Romero Ruales,María Belén
+399,oskar08bsc@hotmail.com,Estudiante,,7EGB Manabí,1,1728272376,0,NULL,Serrano Cárdenas,Danna Isabella
+400,marcelo.patricio.silva.rosero@gmail.com,Estudiante,,7EGB Manabí,1,1754325866,0,NULL,Silva Bermudez,Doménica Francisca
+401,karinasimbanarivera@gmail.com,Estudiante,,7EGB Manabí,1,1754229431,0,NULL,Terán Simbaña,Adrián Francisco
+402,jacobo.vasquez@saintpatrick.edu.ec,Estudiante,,7EGB Manabí,1,1753936663,0,NULL,Vásquez Carranza,Arlet Elizabeth
+403,danny.ariasb@gmail.com,Estudiante,,Inicial 2 Orellana,1,1760179570,0,NULL,Arias Gallardo,Thomas Sebastián
+404,talina.ordonez@yahoo.com,Estudiante,,Inicial 2 Orellana,1,1760364958,0,NULL,Avila Ordoñez,Arelí Antonella
+405,andre.yepez@hotmail.com,Estudiante,,Inicial 2 Orellana,1,1760483386,0,NULL,Betancourt Yépez,Theo
+406,jcesarscorpion@hotmail.com,Estudiante,,Inicial 2 Orellana,1,1760187896,0,NULL,Carrillo Morales,Emy Romina
+407,tannigs@hotmail.com,Estudiante,,Inicial 2 Orellana,1,1760058188,0,NULL,Galárraga Guevara,Matías Andrés
+408,ma_belen@msn.com,Estudiante,,Inicial 2 Orellana,1,1760259364,0,NULL,Granja Peñaherrera,Fiorella Bianca
+409,balladarescontabilidad@gmail.com,Estudiante,,Inicial 2 Orellana,1,1760260545,0,NULL,Hoyos Cevallos,Ignacio
+410,eduardo.martinez@saintpatrick.edu.ec,Estudiante,,Inicial 2 Orellana,1,1760493435,0,NULL,Martínez Tapia,Benjamín
+411,andrescontilde@gmail.com,Estudiante,,Inicial 2 Orellana,1,1760199594,0,NULL,Rodríguez Jarrín,María Eduarda
+412,mariabelencastillolo@hotmail.com,Estudiante,,Inicial 2 Orellana,1,1760452100,0,NULL,Rojas Castillo,Gabriel Sebastián
+413,max.aguilar@gmail.com,Estudiante,,2EGB Pichincha,1,1758836355,0,NULL,Aguilar Yugcha,Carlos Daniel
+414,c3caiman@outlook.com,Estudiante,,2EGB Pichincha,1,1758980971,0,NULL,Aizaga Alvaro,Dante Antonio
+415,tatyalarcon84@hotmail.com,Estudiante,,2EGB Pichincha,1,1758513475,0,NULL,Amores Alarcón,Luciana Victoria
+416,gaboalejoandrade@hotmail.com,Estudiante,,2EGB Pichincha,1,1758665135,0,NULL,Andrade Buste,José Gabriel
+417,freddy_calva@hotmail.com,Estudiante,,2EGB Pichincha,1,1758726960,0,NULL,Calva Oleas,Adam Maximiliano
+418,leonelcastroiq@hotmail.com,Estudiante,,2EGB Pichincha,1,1759235151,0,NULL,Castro Portilla,Leonel Antonio
+419,rikrdo1687@hotmail.com,Estudiante,,2EGB Pichincha,1,1758513111,0,NULL,Córdova Gómez,Natalia Rafaela
+420,autorepuestos-cruz@hotmail.com,Estudiante,,2EGB Pichincha,1,1758690166,0,NULL,Cruz Bersoza,Martin Sebastian
+421,mariadvelez@gmail.com,Estudiante,,2EGB Pichincha,1,1758958720,0,NULL,Dávila Vélez,Suri
+422,christiamaudio@gmail.com,Estudiante,,2EGB Pichincha,1,1758794778,0,NULL,Garzón Dávila,Sara Martina
+423,sofsofypico@yahoo.com,Estudiante,,2EGB Pichincha,1,1759222019,0,NULL,Guerrero Pico,Raphaella Sarahí
+424,yeseniagallardo@hotmail.com,Estudiante,,2EGB Pichincha,1,1758748022,0,NULL,Mariño Gallardo,Emma Martina
+425,sydalg_san@hotmail.es,Estudiante,,2EGB Pichincha,1,1759086869,0,NULL,Poma Sandoval,Julian Mathias
+426,estefy_nenabel@hotmail.com,Estudiante,,2EGB Pichincha,1,1758834046,0,NULL,Tobar Gallegos,Luciana Amelie
+427,cajasedmundo@gmail.com,Estudiante,,3EGB Sucumbíos,1,3050603046,0,NULL,Cajas Díaz,Agustín Nicolás
+428,byronenriquezs@yahoo.com,Estudiante,,3EGB Sucumbíos,1,1758822413,0,NULL,Enriquez Quiroz,Emilia del Rocío
+429,johann_jvc@hotmail.com,Estudiante,,3EGB Sucumbíos,1,1758480477,0,NULL,Escobar Vera,Sebastian Alejandro
+430,magpcool1@yahoo.com,Estudiante,,3EGB Sucumbíos,1,1758050080,0,NULL,Galarza Troya,José Elías
+431,vetcirujano@gmail.com,Estudiante,,3EGB Sucumbíos,1,1758466799,0,NULL,Lucero Egas,Ivanna Charlotte
+432,jmayaromero@yahoo.es,Estudiante,,3EGB Sucumbíos,1,1757949860,0,NULL,Maya Álvarez,Jonathan Benjamín
+433,gandi_mier@hotmail.com,Estudiante,,3EGB Sucumbíos,1,1758202731,0,NULL,Mier Romo,Salomé Isabella
+434,ibbistudio@gmail.com,Estudiante,,3EGB Sucumbíos,1,1758080384,0,NULL,Molina Suasnavas,Leonardo Salvador
+435,sararl13@hotmail.com,Estudiante,,3EGB Sucumbíos,1,1758220964,0,NULL,Sanchez Rivera,Adrian Nicolas
+436,karinasimbanarivera@gmail.com,Estudiante,,3EGB Sucumbíos,1,1758237323,0,NULL,Terán Simbaña,Ariana Isabella
+437,francesabl@gmail.com,Estudiante,,3EGB Sucumbíos,1,1758025389,0,NULL,Vela Balladares,Rebecca
+438,cathy2208@hotmail.com,Estudiante,,3EGB Sucumbíos,1,1758266488,0,NULL,Vizuete Cajas,Eva Alfonsina
+439,gaboalejoandrade@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760125078,0,NULL,Andrade Buste,José Ignacio
+440,davide.beltran@gmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760185338,0,NULL,Beltrán Vera,Mathías David
+441,jc_corralesb@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760289437,0,NULL,Corrales López,Juan Esteban
+442,stan_espinosa@yahoo.com,Estudiante,,Inicial 2 Tungurahua,1,1760080232,0,NULL,Espinosa Torres,José Alejandro
+443,tannigs@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760058196,0,NULL,Galárraga Guevara,Victoria Abigail
+444,geovi_ale@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760488302,0,NULL,Medina Báez,Francisco Maximiliano
+445,elycarrion-86@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760206522,0,NULL,Páez Carrión,Gabriel Roberto
+446,geovisch@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760320992,0,NULL,Paredes Chávez,Gianna Amelia
+447,frodriguez@schreder.com,Estudiante,,Inicial 2 Tungurahua,1,1760261170,0,NULL,RODRÍGUEZ LÓPEZ,HELENA SOFÍA
+448,marcos_vernaza@hotmail.com,Estudiante,,Inicial 2 Tungurahua,1,1760053668,0,NULL,Vernaza Pazos,Kowen Marcos
